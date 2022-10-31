@@ -8,6 +8,15 @@ https://glaucia86.medium.com/developing-a-crud-node-js-application-with-postgres
 
 https://dev.to/azure/desenvolvendo-uma-aplicacao-crud-node-js-com-postgresql-3clk
 
+https://medium.com/@thekingoftech/configurando-jwt-spring-security-e-angular-8-86b755f565a8
+
+https://www.bezkoder.com/angular-10-jwt-auth/
+
+https://code.tutsplus.com/pt/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543
+
+https://forum.casadodesenvolvedor.com.br/topic/27-autenticando-uma-api-em-nodejs-com-json-web-tokens/
+
+https://cloud.google.com/nodejs/getting-started/authenticate-users?hl=pt-br
 
 ### Criar um arquivo .env na raíz do projeto
 Adicionar e editar o seguinte trecho de código:
